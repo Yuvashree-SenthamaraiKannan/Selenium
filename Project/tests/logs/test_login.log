@@ -1,0 +1,9 @@
+2024-08-13 10:41:29,305 - INFO - Navigated to OrangeHRM login page.
+2024-08-13 10:41:30,056 - INFO - Attempted to login with username: Admin
+2024-08-13 10:41:32,023 - INFO - Navigated to OrangeHRM login page.
+2024-08-13 10:41:33,849 - INFO - Attempted to login with username: Yuvashree
+2024-08-13 10:41:34,660 - INFO - Negative test passed: Login failed with invalid credentials.
+2024-08-13 10:41:35,319 - INFO - Navigated to OrangeHRM login page.
+2024-08-13 10:41:37,139 - INFO - Attempted to login with username: Admin
+2024-08-13 10:41:40,151 - INFO - Positive test passed: Successfully logged in with valid credentials.
+2024-08-13 10:41:42,410 - INFO - Driver closed.
