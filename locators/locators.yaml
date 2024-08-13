@@ -1,0 +1,8 @@
+login_page:
+  username_xpath: //input[@name='username']
+  password_xpath: //input[@name='password']
+  submit_button_xpath: //button[@type='submit']
+  error_message_xpath: //div[@class='oxd-alert-content oxd-alert-content--error']
+
+home_page:
+  welcome_message_xpath: //a[@id='welcome']
